@@ -1,0 +1,23 @@
+.heading {
+    text-align: center;
+}
+
+.error_text {
+    font-size: 10px;
+}
+
+.elements-table {
+    width: 900px;
+}
+
+table tr:nth-child(odd) {
+   background-color: #b8d1f3
+}
+
+table tr:nth-child(even) {
+ background-color: #dae5f4;
+}
+
+.search-input {
+    width: 900px;
+}
